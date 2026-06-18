@@ -19,4 +19,4 @@
 | | JP1 | Header 4x1 | 1 | CON:CGRID:HDR:40X1:RE |
 | **Otros** | JP1 | Jumper | 1 | CON:JMP |
 
-* Proveedor de componentes: abebashop.com
+* Proveedor de componentes: [abebashop.com]abebashop.com
